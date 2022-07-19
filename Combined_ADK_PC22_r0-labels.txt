@@ -1,0 +1,6 @@
+transporter9
+tank
+humvee
+truck
+car_suv
+armytruck
