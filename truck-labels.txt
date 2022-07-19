@@ -1,5 +1,0 @@
-suv
-adk_green_dump
-adk_green_flat
-adk_tan_flat
-armytruck
